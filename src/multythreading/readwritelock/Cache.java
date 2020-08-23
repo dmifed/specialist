@@ -1,4 +1,4 @@
-package level2.readwritelock;
+package multythreading.readwritelock;
 
 
 // RR

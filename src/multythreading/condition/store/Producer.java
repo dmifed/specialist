@@ -1,4 +1,4 @@
-package level2.condition.store;
+package multythreading.condition.store;
 
 public class Producer implements Runnable{
     Store store = Store.initStore();

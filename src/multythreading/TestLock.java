@@ -1,4 +1,4 @@
-package level2;
+package multythreading;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;
